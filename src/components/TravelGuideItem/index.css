@@ -1,0 +1,27 @@
+.list-item {
+  list-style-type: none;
+  background-color: #ffffff;
+  padding-bottom: 20px;
+  width: 30%;
+  margin-bottom: 15px;
+  margin-right: 15px;
+}
+.image {
+  height: 190px;
+  width: 100%;
+}
+.item-heading {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+  padding-left: 20px;
+}
+.description {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
